@@ -1,0 +1,31 @@
+# Quartus auto-generated directories
+db/
+incremental_db/
+output_files/
+greybox_tmp/
+hbs/
+ipregen/
+qdb/
+
+# Quartus project & workspace files
+*.qws
+*.qpf
+*.qsf
+*.bak
+*.rpt
+*.smsg
+*.summary
+*.done
+*.pin
+*.flow.rpt
+*.map.rpt
+*.sta.rpt
+
+# ModelSim
+*.wlf
+transcript
+work/
+
+# OS junk
+.DS_Store
+Thumbs.db
