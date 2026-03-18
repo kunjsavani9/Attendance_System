@@ -26,11 +26,18 @@ This project implements a digital **Attendance Management System (AMS)** using V
 ```
 Attendance_System/
 ├── attendance__system.v   # ⭐ Main Verilog source code
+├── block_diagram.PNG      # System block diagram
 ├── rtl.PNG                # RTL schematic view (Quartus)
 ├── ttl.PNG                # TTL schematic view (Quartus)
 ├── Simulation.PNG         # ModelSim simulation waveform
 └── README.md
 ```
+
+---
+
+## 🔷 Block Diagram
+
+![Block Diagram](block_diagram.PNG)
 
 ---
 
@@ -79,6 +86,8 @@ Converts a 4-bit BCD digit (0–9) → 7-bit common-anode segment encoding.
 ### Simulation Waveform
 ![Simulation](Simulation.PNG)
 
+### Block Diagram
+![Block Diagram](block_diagram.png)
 ---
 
 ## 🚀 Getting Started
